@@ -31,6 +31,5 @@ public:
 		int target = 9;
 		std::vector<int> ans = twoSum(nums, target);
 		print_answer(ans);
-
 	}
 };
