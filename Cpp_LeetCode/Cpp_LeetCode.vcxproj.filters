@@ -26,5 +26,8 @@
     <ClInclude Include="2_add_two_numbers.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="2_add_two_numbers_2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
