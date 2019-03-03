@@ -35,5 +35,11 @@
     <ClInclude Include="6_zigzag_conversion.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="7_reverse_integer.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="7_reverse_integer_2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

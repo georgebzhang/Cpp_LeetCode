@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-class ZigZag_Solution {
+class ZigZag_Conversion {
 public:
 	std::string convert(std::string s, int numRows) {
 		if (numRows == 1) return s; // base case
