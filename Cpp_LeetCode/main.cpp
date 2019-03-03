@@ -6,9 +6,11 @@
 #include "7_reverse_integer.h"
 #include "7_reverse_integer_2.h"
 #include "8_string_to_integer_atoi.h"
+#include "9_palindrome_number.h"
+#include "9_palindrome_number_2.h"
 
 int main() {
-	String_To_Integer s;
+	Palindrome_Number_2 s;
 	s.test();
 
 	std::cin.get();

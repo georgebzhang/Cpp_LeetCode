@@ -44,5 +44,11 @@
     <ClInclude Include="8_string_to_integer_atoi.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="9_palindrome_number.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="9_palindrome_number_2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

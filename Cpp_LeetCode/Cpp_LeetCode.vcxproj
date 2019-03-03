@@ -126,6 +126,8 @@
     <ClInclude Include="7_reverse_integer.h" />
     <ClInclude Include="7_reverse_integer_2.h" />
     <ClInclude Include="8_string_to_integer_atoi.h" />
+    <ClInclude Include="9_palindrome_number.h" />
+    <ClInclude Include="9_palindrome_number_2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
