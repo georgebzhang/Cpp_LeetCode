@@ -29,5 +29,8 @@
     <ClInclude Include="2_add_two_numbers_2.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="4_longest_palindromic_substring.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

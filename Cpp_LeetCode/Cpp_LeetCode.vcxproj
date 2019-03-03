@@ -121,6 +121,7 @@
     <ClInclude Include="1_two_sum.h" />
     <ClInclude Include="2_add_two_numbers.h" />
     <ClInclude Include="2_add_two_numbers_2.h" />
+    <ClInclude Include="4_longest_palindromic_substring.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
