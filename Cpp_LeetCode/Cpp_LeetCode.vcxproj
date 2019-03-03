@@ -125,6 +125,7 @@
     <ClInclude Include="6_zigzag_conversion.h" />
     <ClInclude Include="7_reverse_integer.h" />
     <ClInclude Include="7_reverse_integer_2.h" />
+    <ClInclude Include="8_string_to_integer_atoi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
