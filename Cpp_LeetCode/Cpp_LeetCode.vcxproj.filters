@@ -32,5 +32,8 @@
     <ClInclude Include="4_longest_palindromic_substring.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="6_zigzag_conversion.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
